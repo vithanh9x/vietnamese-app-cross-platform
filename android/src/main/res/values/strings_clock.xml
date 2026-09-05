@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Clock Strings - English -->
+    <string name="clock_title">World Clock</string>
+    <string name="clock_current_time">Current Time</string>
+    <string name="clock_timezone">Time Zone</string>
+    <string name="clock_add_timezone">Add Time Zone</string>
+    <string name="clock_remove_timezone">Remove Time Zone</string>
+    <string name="clock_select_timezone">Select Time Zone</string>
+    <string name="clock_format_12h">12 Hour</string>
+    <string name="clock_format_24h">24 Hour</string>
+    <string name="clock_timezone_list">Time Zone List</string>
+</resources>
