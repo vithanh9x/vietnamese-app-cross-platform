@@ -1,0 +1,53 @@
+{
+  "app": {
+    "name": "Đồng Hồ Số Digital",
+    "welcome": "Chào mừng đến với ứng dụng"
+  },
+  "menu": {
+    "home": "Trang Chủ",
+    "settings": "Cài Đặt",
+    "about": "Về Ứng Dụng",
+    "exit": "Thoát"
+  },
+  "buttons": {
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Chỉnh Sửa",
+    "add": "Thêm",
+    "remove": "Xóa Bỏ"
+  },
+  "clock": {
+    "title": "Đồng Hồ Thế Giới",
+    "current_time": "Giờ Hiện Tại",
+    "timezone": "Múi Giờ",
+    "add_timezone": "Thêm Múi Giờ",
+    "remove_timezone": "Xóa Múi Giờ",
+    "select_timezone": "Chọn Múi Giờ",
+    "format_12h": "12 Giờ",
+    "format_24h": "24 Giờ",
+    "timezone_list": "Danh Sách Múi Giờ"
+  },
+  "timezones": {
+    "utc": "UTC (Giờ Phối Hợp Quốc Tế)",
+    "asia_ho_chi_minh": "Asia/Ho_Chi_Minh (Việt Nam)",
+    "asia_bangkok": "Asia/Bangkok (Thái Lan)",
+    "asia_tokyo": "Asia/Tokyo (Nhật Bản)",
+    "asia_shanghai": "Asia/Shanghai (Trung Quốc)",
+    "asia_hong_kong": "Asia/Hong_Kong (Hồng Kông)",
+    "asia_singapore": "Asia/Singapore (Singapore)",
+    "asia_kolkata": "Asia/Kolkata (Ấn Độ)",
+    "europe_london": "Europe/London (Anh)",
+    "europe_paris": "Europe/Paris (Pháp)",
+    "europe_berlin": "Europe/Berlin (Đức)",
+    "europe_moscow": "Europe/Moscow (Nga)",
+    "america_new_york": "America/New_York (New York)",
+    "america_chicago": "America/Chicago (Chicago)",
+    "america_denver": "America/Denver (Denver)",
+    "america_los_angeles": "America/Los_Angeles (Los Angeles)",
+    "america_toronto": "America/Toronto (Canada)",
+    "america_sao_paulo": "America/Sao_Paulo (Brazil)",
+    "australia_sydney": "Australia/Sydney (Australia)",
+    "pacific_auckland": "Pacific/Auckland (New Zealand)"
+  }
+}
