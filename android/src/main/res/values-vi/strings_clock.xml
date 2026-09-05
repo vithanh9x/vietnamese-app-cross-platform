@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Clock Strings - Vietnamese -->
+    <string name="clock_title">Đồng Hồ Thế Giới</string>
+    <string name="clock_current_time">Giờ Hiện Tại</string>
+    <string name="clock_timezone">Múi Giờ</string>
+    <string name="clock_add_timezone">Thêm Múi Giờ</string>
+    <string name="clock_remove_timezone">Xóa Múi Giờ</string>
+    <string name="clock_select_timezone">Chọn Múi Giờ</string>
+    <string name="clock_format_12h">12 Giờ</string>
+    <string name="clock_format_24h">24 Giờ</string>
+    <string name="clock_timezone_list">Danh Sách Múi Giờ</string>
+</resources>
